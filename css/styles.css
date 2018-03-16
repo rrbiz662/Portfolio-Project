@@ -1,0 +1,74 @@
+/*Elements*/
+body{
+    font-family: 'Mina', sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+h1, p{
+    padding: 0;
+    margin: 0;
+}
+
+/*Classes*/
+.container {
+    display: flex;    
+    flex-wrap: wrap
+}
+
+.logo{
+    width: 50%;
+    height: 100%;
+}
+
+.info{
+    width: 50%;
+    text-align: right;
+    
+}
+
+.main{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.featured{    
+    padding: 10px;  
+    text-align: center;
+}
+
+.blue-font{
+    color: #2d3c49  
+}
+
+.grey-font{
+    color: #7d97ad;
+}
+
+.name{
+    font-size: 3em;
+}
+
+.job{
+    font-size: 1.5em;
+}
+
+/*Media queries*/
+@media only screen and (min-width: 800px){
+    body{
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .name{
+        font-size: 2em;        
+    }
+    .job{
+        font-size: 1em;
+    }
+}
