@@ -1,13 +1,14 @@
 /*Elements*/
 body{
-    font-family: 'Mina', sans-serif;
+    font-family: "Mina", sans-serif;
 }
 
 img{
     max-width: 100%;
 }
 
-h1, p{
+h1,
+p {
     padding: 0;
     margin: 0;
 }
