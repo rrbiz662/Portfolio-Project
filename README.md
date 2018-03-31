@@ -1,5 +1,6 @@
 # Portfolio-Project
-Source code for the Portfolio Project.
+This project provides a webpage that has links to some previous projects.
+More importantly, it is responsive and will resize accordingly to different screen sizes. 
 
 ## Getting Started
 These instructions will get you a copy of the project on your local machine for development and/or testing purposes.
