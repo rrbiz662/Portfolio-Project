@@ -1,4 +1,4 @@
-# Portfolio-Project
+# Portfolio
 This project provides a webpage that has links to some previous projects.
 More importantly, it is responsive and will resize accordingly to different screen sizes. 
 
